@@ -7,8 +7,8 @@ public class Matrix {
 					{0, 1, 0},
 					{0, 0, 1}};
 		boolean flag = true;
-		var rows = a.length;
-		var cols = a[0].length;
+		var rows = a.length;//3
+		var cols = a[0].length;//3
 		
 		System.out.println(a.length);
 		System.out.println(a[0].length);
